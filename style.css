@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: logo.png;
+    background-image: img src="logo.png";
     background-size: cover;
     display: flex;
     flex-direction: column;
